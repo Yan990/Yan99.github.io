@@ -1,5 +1,4 @@
-  
-*.java linguist-language=markdown
 *.cs linguist-language=markdown
 *.js linguist-language=markdown
 *.md linguist-language=markdown
+*.html linguist-language=markdown
