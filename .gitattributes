@@ -1,0 +1,4 @@
+  
+*.java linguist-language=markdown
+*.cs linguist-language=markdown
+*.js linguist-language=markdown
